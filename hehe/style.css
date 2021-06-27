@@ -2686,6 +2686,14 @@ a:hover, a:active {
   display: none;
 }
 
+/* ##flaticon */
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+
+font-size: 1em;
+text-align:center;
+
+}
 /*--------------------------------------------------------------
 ## Menus
 --------------------------------------------------------------*/
@@ -2938,9 +2946,9 @@ a:hover, a:active {
   color: #3C72AE;
 }
 
-.main-navigation ul > li.menu-item-has-children > a {
+/* .main-navigation ul > li.menu-item-has-children > a {
   padding-right: 17px;
-}
+} */
 
 .main-navigation > ul > li.menu-item-has-children:last-child > a:after {
   right: 0px;
@@ -3017,8 +3025,8 @@ a:hover, a:active {
   right: 0px;
   top: 50%;
   margin-top: -4px;
-  font-family: "Flaticon";
-  content: "ï„";
+  /* font-family: "Flaticon";
+  content: "ï„"; */
   font-size: 11px;
   line-height: 1;
   color: rgba(85, 105, 135, 0.5);
@@ -3032,8 +3040,8 @@ a:hover, a:active {
   right: 15px;
   top: 50%;
   margin-top: -6px;
-  font-family: "Flaticon";
-  content: "ï„";
+  /* font-family: "Flaticon1";
+  content: "ï„"; */
   font-size: 11px;
   line-height: 1;
   color: rgba(85, 105, 135, 0.5);
@@ -6784,10 +6792,10 @@ object {
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
-  background-color: #0039e4;
-  background-image: -moz-linear-gradient(145deg, #0039e4, #04dbf1);
-  background-image: -webkit-linear-gradient(145deg, #0039e4, #04dbf1);
-  background-image: linear-gradient(145deg, #0039e4, #04dbf1);
+  background-color: #3C72AE;
+  background-image: -moz-linear-gradient(145deg, #3C72AE, #a3bfdd);
+  background-image: -webkit-linear-gradient(145deg, #3C72AE, #a3bfdd);
+  background-image: linear-gradient(145deg, #3C72AE, #a3bfdd);
   box-shadow: 10px 10px 30px 0px rgba(2, 156, 236, 0.3);
   -webkit-box-shadow: 10px 10px 30px 0px rgba(2, 156, 236, 0.3);
   -moz-box-shadow: 10px 10px 30px 0px rgba(2, 156, 236, 0.3);
@@ -7750,10 +7758,10 @@ div.elementor-widget-wrap > .elementor-element.btn-inline {
   text-align: left;
   padding: 30px 30px 10px 30px;
   box-sizing: border-box;
-  background-color: #0039e4;
-  background-image: -moz-linear-gradient(90deg, #0039e4, #04dbf1);
-  background-image: -webkit-linear-gradient(90deg, #0039e4, #04dbf1);
-  background-image: linear-gradient(90deg, #0039e4, #04dbf1);
+  background-color: #3C72AE;
+  background-image: -moz-linear-gradient(145deg, #3C72AE, #a3bfdd);
+  background-image: -webkit-linear-gradient(145deg, #3C72AE, #a3bfdd);
+  background-image: linear-gradient(145deg, #3C72AE, #a3bfdd);
   border-top-left-radius: 15px;
   border-top-right-radius: 0px;
   border-bottom-right-radius: 0px;
@@ -9080,10 +9088,10 @@ div.tp-bullets{
     padding: 045px 27px 40px 27px;
 }
 .home3-feature .icon-box.s3 .icon-main {
-    background-color: #0039e4;
-    background-image: -moz-linear-gradient(145deg, #0039e4, #04dbf1);
-    background-image: -webkit-linear-gradient(145deg, #0039e4, #04dbf1);
-    background-image: linear-gradient(145deg, #0039e4, #04dbf1);
+    background-color: #3C72AE;
+    background-image: -moz-linear-gradient(145deg, #3C72AE, #a3bfdd);
+    background-image: -webkit-linear-gradient(145deg, #3C72AE, #a3bfdd);
+    background-image: linear-gradient(145deg, #3C72AE, #a3bfdd);
 }
 .home3-feature .icon-box.s3:hover .icon-main {
     background-color: transparent;

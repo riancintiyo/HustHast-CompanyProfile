@@ -145,8 +145,8 @@
             adaptiveHeight: true,
             fade: true,                
             appendArrows: '.testicustom-slider-nav, .slider__arrows',                
-            prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-arrow-pointing-to-left"></i></button>',
-            nextArrow: '<button type="button" class="next-nav"><i class="flaticon-arrow-pointing-to-right"></i></button>',
+            prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-left-arrow"></i></button>',
+            nextArrow: '<button type="button" class="next-nav"><i class="flaticon-right-arrow-angle"></i></button>',
         });
     });
 
@@ -252,8 +252,8 @@
             autoplay: true,
             autoplaySpeed: 6000,
             adaptiveHeight: true,
-            prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-arrow-pointing-to-left"></i></button>',
-            nextArrow: '<button type="button" class="next-nav"><i class="flaticon-arrow-pointing-to-right"></i></button>',
+            prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-left-arrow"></i></button>',
+            nextArrow: '<button type="button" class="next-nav"><i class="flaticon-right-arrow-angle"></i></button>',
             responsive: [
                 {
                     breakpoint: 1199,
@@ -336,8 +336,8 @@
                 autoplay: true,
                 autoplaySpeed: 6000,
                 adaptiveHeight: true,
-                prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-arrow-pointing-to-left"></i></button>',
-                nextArrow: '<button type="button" class="next-nav"><i class="flaticon-arrow-pointing-to-right"></i></button>',
+                prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-left-arrow"></i></button>',
+                nextArrow: '<button type="button" class="next-nav"><i class="flaticon-right-arrow-angle"></i></button>',
                 responsive: [
                     {
                         breakpoint: 1199,
@@ -382,8 +382,8 @@
                 autoplay: true,
                 autoplaySpeed: 6000,
                 adaptiveHeight: true,
-                prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-arrow-pointing-to-left"></i></button>',
-                nextArrow: '<button type="button" class="next-nav"><i class="flaticon-arrow-pointing-to-right"></i></button>',
+                prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-left-arrow"></i></button>',
+                nextArrow: '<button type="button" class="next-nav"><i class="flaticon-right-arrow-angle"></i></button>',
                 responsive: [
                     {
                         breakpoint: 1199,
@@ -462,8 +462,8 @@
                 infinite: false,
                 autoplay: false,
                 adaptiveHeight: true,
-                prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-arrow-pointing-to-left"></i></button>',
-                nextArrow: '<button type="button" class="next-nav"><i class="flaticon-arrow-pointing-to-right"></i></button>',
+                prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-left-arrow"></i></button>',
+                nextArrow: '<button type="button" class="next-nav"><i class="flaticon-right-arrow-angle"></i></button>',
                 responsive: [
                     {
                         breakpoint: 1199,
@@ -536,8 +536,8 @@
             dots: false,
             autoplay: true,
             autoplaySpeed: 7000,
-            prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-arrow-pointing-to-left"></i></button>',
-            nextArrow: '<button type="button" class="next-nav"><i class="flaticon-arrow-pointing-to-right"></i></button>',
+            prevArrow: '<button type="button" class="prev-nav"><i class="flaticon-left-arrow"></i></button>',
+            nextArrow: '<button type="button" class="next-nav"><i class="flaticon-right-arrow-angle"></i></button>',
             responsive: []
         });
     });
